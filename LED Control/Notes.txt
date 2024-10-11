@@ -1,0 +1,4 @@
+Ground to negative rail on breadboard
+resistors: one end on negative, route parallel to some column on breadboard
+leds: negative (short) end on same rail as resistor
+output leads: route to rail where positive end of led is 
